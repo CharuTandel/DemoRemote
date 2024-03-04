@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("charu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb848c2e26f1d099d1b252d26fcc094718ead7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc27b81d1aa673cbcfbaeb2f6c69b048a6ceed2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("charu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("charu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
