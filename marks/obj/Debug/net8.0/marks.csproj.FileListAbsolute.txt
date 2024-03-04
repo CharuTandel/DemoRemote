@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\marks\bin\Debug\net8.0\marks.exe
+C:\Users\charu.tandel\Desktop\marks\bin\Debug\net8.0\marks.deps.json
+C:\Users\charu.tandel\Desktop\marks\bin\Debug\net8.0\marks.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\marks\bin\Debug\net8.0\marks.dll
+C:\Users\charu.tandel\Desktop\marks\bin\Debug\net8.0\marks.pdb
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.dll
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\refint\marks.dll
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.pdb
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\marks.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\marks\obj\Debug\net8.0\ref\marks.dll

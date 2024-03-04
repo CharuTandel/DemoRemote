@@ -1,0 +1,4 @@
+C:\Users\charu.tandel\Desktop\throwing\obj\Debug\net8.0\throwing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\throwing\obj\Debug\net8.0\throwing.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\throwing\obj\Debug\net8.0\throwing.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\throwing\obj\Debug\net8.0\throwing.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\Days\bin\Debug\net8.0\Days.exe
+C:\Users\charu.tandel\Desktop\Days\bin\Debug\net8.0\Days.deps.json
+C:\Users\charu.tandel\Desktop\Days\bin\Debug\net8.0\Days.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\Days\bin\Debug\net8.0\Days.dll
+C:\Users\charu.tandel\Desktop\Days\bin\Debug\net8.0\Days.pdb
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.dll
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\refint\Days.dll
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.pdb
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\Days.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\Days\obj\Debug\net8.0\ref\Days.dll

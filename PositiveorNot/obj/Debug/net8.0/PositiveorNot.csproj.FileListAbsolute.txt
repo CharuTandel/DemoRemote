@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\PositiveorNot\bin\Debug\net8.0\PositiveorNot.exe
+C:\Users\charu.tandel\Desktop\PositiveorNot\bin\Debug\net8.0\PositiveorNot.deps.json
+C:\Users\charu.tandel\Desktop\PositiveorNot\bin\Debug\net8.0\PositiveorNot.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\PositiveorNot\bin\Debug\net8.0\PositiveorNot.dll
+C:\Users\charu.tandel\Desktop\PositiveorNot\bin\Debug\net8.0\PositiveorNot.pdb
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.dll
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\refint\PositiveorNot.dll
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.pdb
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\PositiveorNot.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\PositiveorNot\obj\Debug\net8.0\ref\PositiveorNot.dll

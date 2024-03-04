@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\Type_Convert\bin\Debug\net8.0\Type_Convert.exe
+C:\Users\charu.tandel\Desktop\Type_Convert\bin\Debug\net8.0\Type_Convert.deps.json
+C:\Users\charu.tandel\Desktop\Type_Convert\bin\Debug\net8.0\Type_Convert.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\Type_Convert\bin\Debug\net8.0\Type_Convert.dll
+C:\Users\charu.tandel\Desktop\Type_Convert\bin\Debug\net8.0\Type_Convert.pdb
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.dll
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\refint\Type_Convert.dll
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.pdb
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\Type_Convert.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\Type_Convert\obj\Debug\net8.0\ref\Type_Convert.dll

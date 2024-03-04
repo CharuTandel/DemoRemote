@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\character_reverse\bin\Debug\net8.0\character_reverse.exe
+C:\Users\charu.tandel\Desktop\character_reverse\bin\Debug\net8.0\character_reverse.deps.json
+C:\Users\charu.tandel\Desktop\character_reverse\bin\Debug\net8.0\character_reverse.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\character_reverse\bin\Debug\net8.0\character_reverse.dll
+C:\Users\charu.tandel\Desktop\character_reverse\bin\Debug\net8.0\character_reverse.pdb
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.dll
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\refint\character_reverse.dll
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.pdb
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\character_reverse.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\character_reverse\obj\Debug\net8.0\ref\character_reverse.dll

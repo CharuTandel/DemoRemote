@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\Equal\bin\Debug\net8.0\Equal.exe
+C:\Users\charu.tandel\Desktop\Equal\bin\Debug\net8.0\Equal.deps.json
+C:\Users\charu.tandel\Desktop\Equal\bin\Debug\net8.0\Equal.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\Equal\bin\Debug\net8.0\Equal.dll
+C:\Users\charu.tandel\Desktop\Equal\bin\Debug\net8.0\Equal.pdb
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.dll
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\refint\Equal.dll
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.pdb
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\Equal.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\Equal\obj\Debug\net8.0\ref\Equal.dll
