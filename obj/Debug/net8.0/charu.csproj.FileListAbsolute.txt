@@ -1,0 +1,14 @@
+C:\Users\charu.tandel\Desktop\charu\bin\Debug\net8.0\charu.exe
+C:\Users\charu.tandel\Desktop\charu\bin\Debug\net8.0\charu.deps.json
+C:\Users\charu.tandel\Desktop\charu\bin\Debug\net8.0\charu.runtimeconfig.json
+C:\Users\charu.tandel\Desktop\charu\bin\Debug\net8.0\charu.dll
+C:\Users\charu.tandel\Desktop\charu\bin\Debug\net8.0\charu.pdb
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.AssemblyInfoInputs.cache
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.AssemblyInfo.cs
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.csproj.CoreCompileInputs.cache
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.dll
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\refint\charu.dll
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.pdb
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\charu.genruntimeconfig.cache
+C:\Users\charu.tandel\Desktop\charu\obj\Debug\net8.0\ref\charu.dll
